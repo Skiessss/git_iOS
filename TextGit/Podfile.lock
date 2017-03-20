@@ -1,0 +1,52 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - GPUImage (0.1.7)
+  - KDCycleBannerView (1.1.1):
+    - SDWebImage
+  - Masonry (1.0.0)
+  - MBProgressHUD (0.9.2)
+  - MJExtension (3.0.10)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - YYKit (1.0.5):
+    - YYKit/no-arc (= 1.0.5)
+  - YYKit/no-arc (1.0.5)
+
+DEPENDENCIES:
+  - AFNetworking
+  - GPUImage
+  - KDCycleBannerView
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - SDWebImage
+  - YYKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  KDCycleBannerView: 6dbac2cda6b1a6f4e27b65d66249ecd966403b8b
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  YYKit: f2654fe525de2283648db957bddb37ddd8e06549
+
+PODFILE CHECKSUM: d8ebb44d266dec605ebd93609a12372c04634207
+
+COCOAPODS: 1.2.0
